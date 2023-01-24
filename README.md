@@ -19,3 +19,7 @@ Alternatively,
 - And if you have sub points, put two spaces before the dash or star:
   - Like this
   - And this
+
+If you want to embed images, this is how you do it:
+
+![Image of Sonic](https://cdn.cloudflare.steamstatic.com/steam/apps/1237320/capsule_616x353.jpg?t=1671712363)
